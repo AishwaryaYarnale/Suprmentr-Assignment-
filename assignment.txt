@@ -1,7 +1,7 @@
 Assignment: AI Around Me
 
 1. Google Maps
-Uses ML to analyze traffic and suggest fastest routes.
+Uses ML to analyze traffic and suggest fastest routes.op
 
 2. YouTube
 Uses ML to recommend videos based on user interest.
