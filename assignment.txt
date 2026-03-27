@@ -1,0 +1,34 @@
+Assignment: AI Around Me
+
+1. Google Maps
+Uses ML to analyze traffic and suggest fastest routes.
+
+2. YouTube
+Uses ML to recommend videos based on user interest.
+
+3. Instagram
+Uses ML to show posts based on user activity.
+
+4. Amazon
+Uses ML to suggest products based on search history.
+
+5. Google Assistant
+Uses ML for voice recognition and answering queries.
+
+6. Netflix
+Uses ML to recommend movies and shows.
+
+7. Gmail
+Uses ML to filter spam and suggest replies.
+
+8. Spotify
+Uses ML to recommend songs.
+
+9. Snapchat
+Uses ML for face filters and detection.
+
+10. Google Photos
+Uses ML to recognize faces and objects.
+
+Conclusion:
+AI is used in daily life and ML helps apps learn and improve automatically.
