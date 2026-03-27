@@ -1,0 +1,38 @@
+1. College Domain
+Problem: Predict student performance
+Input → Output:
+Input: Attendance, study hours, internal marks
+Output: Final exam score / pass-fail prediction
+Idea: ML can help identify weak students early so teachers can support them.
+
+2. Healthcare Domain
+Problem: Disease prediction system
+Input → Output:
+Input: Symptoms, age, medical history
+Output: Possible disease (e.g., diabetes, flu)
+Idea: Helps doctors make faster and more accurate decisions.
+
+3. Shopping Domain
+Problem: Product recommendation system
+Input → Output:
+Input: User search history, past purchases
+Output: Recommended products
+Idea: Used by apps like Amazon to suggest items you may like.
+
+4. College (Extra Idea)
+Problem: Attendance prediction
+Input → Output:
+Input: Past attendance data, timetable
+Output: Future attendance prediction
+
+5. Healthcare (Extra Idea)
+Problem: Appointment scheduling optimization
+Input → Output:
+Input: Doctor availability, patient data
+Output: Best appointment slots
+
+6. Shopping (Extra Idea)
+Problem: Price prediction
+Input → Output:
+Input: Product demand, season, competitor prices
+Output: Optimal product price
